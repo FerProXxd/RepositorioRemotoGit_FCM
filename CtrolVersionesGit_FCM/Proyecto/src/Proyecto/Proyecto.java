@@ -12,6 +12,9 @@ public class Proyecto {
 		 System.out.println("Mensaje de rama1");
 		 
 		 System.out.println("Mensaje de rama1 tarde");
+		 
+		 System.out.println("Mensaje de rama2 tarde");
+		 System.out.println("Mensaje de rama2 tarde");
 	}
 
 }
